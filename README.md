@@ -1,5 +1,3 @@
-**Tip**
-
 Tip Calculator app for CodePath
 
 Submitted by: **Olga Kent**
